@@ -19,7 +19,7 @@
 
     <div class="container mx-auto mt-6 px-4">
         <!-- 01. Content -->
-        <h1 class="text-center text-2xl font-semibold text-gray-800 mb-6">To Do List</h1>
+        <h1 class="text-center text-2xl font-semibold text-gray-800 mb-6">To Do List {{ $namasaya }}</h1>
 
         <div class="bg-white rounded-lg shadow-md p-4 mb-6">
             <!-- 02. Form input data -->
